@@ -1,3 +1,67 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
-languageCode = "en-us"
+baseurl = "http://blog.bishbashboshdesigns.co.uk/"
+copyright = "All rights reserved - 2016"
+languagecode = "en-US"
+paginate = 5
+pluralizelisttitles = false
+title = "The Ramblings of a Front-End Developer"
+
+# Disqus
+disqusshortname = "boshdesigns"
+
+# Set theme
+theme = "casper"
+
+
+  # Main Menu
+  [[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/"
+  weight = -120
+  [[menu.main]]
+  name = "Github repos"
+  pre = "<h3>Follow me</h3>"
+  url = "https://github.com/boshdesigns"
+  weight = 100
+  [[menu.main]]
+  name = "My Twitter"
+  url = "https://twitter.com/shinyash"
+  weight = 101
+  [[menu.main]]
+  name = "My Instagram"
+  url = "https://www.instagram.com/iamashholley/"
+  weight = 102
+  [[menu.main]]
+  name = "My LinkedIn"
+  url = "https://uk.linkedin.com/in/ash-holley-03755851"
+  weight = 102
+
+
+  [params]
+  # author vars
+  author = "Ash Holley"
+  authorlocation = "Brighton, England"
+  authorwebsite = "http://www.bishbashboshdesigns.co.uk/"
+  bio = "Drupal Front-End Developer with a small gaming addiction"
+
+  # homepage
+  cover = "images/cover_polenord.jpg"
+  description = "I work with Drupal in my professional life, and tickle everythng else in my personal life"
+
+  logo = "images/logo.png"
+
+  # Social icons
+  twitterName = "shinyash"
+  githubName = "boshdesigns"
+
+  # footer
+  hideHUGOSupport = false
+  googleAnalyticsUserID = "UA-79101-12"
+
+  [permalinks]
+  post = "/:slug/"
+
+  [sitemap]
+  ChangeFreq = ""
+  Filename = "sitemap.xml"
+  Priority = "-1"
