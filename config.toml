@@ -39,7 +39,7 @@ theme = "casper"
 
   [params]
   # author vars
-  author = "Ash Holley"
+  author = "ash"
   authorlocation = "Brighton, England"
   authorwebsite = "http://www.bishbashboshdesigns.co.uk/"
   bio = "Drupal Front-End Developer with a small gaming addiction"
