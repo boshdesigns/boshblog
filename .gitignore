@@ -1,5 +1,12 @@
+# Ignore standard
 tmp
 .DS_Store
 
+# Ignore public directory.
 public
 public/*
+
+# Ignore firebase
+.firebaserc
+database.rules.json
+firebase.json
