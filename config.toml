@@ -51,8 +51,10 @@ theme = "casper"
   logo = "images/logo.png"
 
   # Social icons
+  # githubName = "boshdesigns"
   twitterName = "shinyash"
-  githubName = "boshdesigns"
+  instagramName = "iamashholley"
+  linkedinName = "ash-holley-03755851"
 
   # footer
   hideHUGOSupport = false
