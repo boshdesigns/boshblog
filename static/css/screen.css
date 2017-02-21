@@ -250,7 +250,7 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    color: #81b0c1;
     transition: color 0.3s ease;
 }
 
@@ -974,6 +974,13 @@ body:not(.post-template) .post-title {
     text-decoration: none;
 }
 
+.read-more::before {
+  content: 'read more';
+  margin-right: 2px;
+  margin-left: 5px;
+  font-size: 1.4rem;
+}
+
 .post-meta {
     display: block;
     margin: 1.75rem 0 0 0;
@@ -984,6 +991,7 @@ body:not(.post-template) .post-title {
 }
 
 .author-thumb {
+    display: none;
     width: 24px;
     height: 24px;
     float: left;
@@ -1243,6 +1251,7 @@ body:not(.post-template) .post-title {
 }
 
 .author-image {
+    display: none !important;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
