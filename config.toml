@@ -1,7 +1,7 @@
 baseurl = "https://blog.bishbashboshdesigns.co.uk/"
 copyright = "All rights reserved"
 languagecode = "en-US"
-paginate = 5
+paginate = 10
 pluralizelisttitles = false
 title = "The Ramblings of a Front-End Developer"
 
@@ -34,12 +34,16 @@ theme = "casper"
   [[menu.main]]
   name = "My LinkedIn"
   url = "https://uk.linkedin.com/in/ash-holley-03755851"
-  weight = 102
+  weight = 103
+  [[menu.main]]
+  name = "JSFiddle"
+  url = "https://jsfiddle.net/user/shinyash/"
+  weight = 104
 
 
   [params]
   # author vars
-  author = "ash"
+  author = "shinyash"
   authorlocation = "Brighton, England"
   authorwebsite = "http://www.bishbashboshdesigns.co.uk/"
   bio = "Drupal Front-End Developer with a small gaming addiction"
@@ -51,7 +55,7 @@ theme = "casper"
   logo = "images/logo.png"
 
   # Social icons
-  # githubName = "boshdesigns"
+  githubName = "boshdesigns"
   twitterName = "shinyash"
   instagramName = "iamashholley"
   linkedinName = "ash-holley-03755851"
