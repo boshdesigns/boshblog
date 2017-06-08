@@ -7,8 +7,8 @@
 "start_url": "/index.html",
 "display": "fullscreen",
 "orientation": "landscape",
-"theme_color": "white",
-"background_color": "white",
+"theme_color": "#81b0c1",
+"background_color": "#81b0c1",
 "icons": [
     {
      "src": "images/favicon/android-icon-36x36.png",
