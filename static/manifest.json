@@ -4,6 +4,11 @@
 "dir": "ltr",
 "description": "A blog about Front End Development.",
 "short_name": "Bosh Blog",
+"start_url": "/index.html",
+"display": "fullscreen",
+"orientation": "landscape",
+"theme_color": "white",
+"background_color": "white",
 "icons": [
     {
      "src": "images/favicon/android-icon-36x36.png",
@@ -41,10 +46,5 @@
      "type": "image\/png",
      "density": "4.0"
     }
-  ],
-"start_url": "/index.html",
-"display": "fullscreen",
-"orientation": "landscape",
-"theme_color": "white",
-"background_color": "white",
+  ]
 }
