@@ -11,7 +11,6 @@ disqusshortname = "boshdesigns"
 # Set theme
 theme = "casper"
 
-
   # Main Menu
   [[menu.main]]
   identifier = "blog"
@@ -62,7 +61,7 @@ theme = "casper"
 
   # footer
   hideHUGOSupport = false
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = "UA-100707687-1"
 
   [permalinks]
   post = "/:slug/"
