@@ -13,22 +13,17 @@ theme = "casper"
 
   # Main Menu
   [[menu.main]]
-  identifier = "blog"
-  name = "Blog"
+  identifier = "home"
+  name = "Home"
   url = "/"
-  weight = -120
-  [[menu.main]]
-  name = "Github repos"
-  pre = "<h3>Follow me</h3>"
-  url = "https://github.com/boshdesigns"
   weight = 100
+  [[menu.main]]
+  name = "Github"
+  url = "https://github.com/boshdesigns"
+  weight = 101
   [[menu.main]]
   name = "My Twitter"
   url = "https://twitter.com/shinyash"
-  weight = 101
-  [[menu.main]]
-  name = "My Instagram"
-  url = "https://www.instagram.com/iamashholley/"
   weight = 102
   [[menu.main]]
   name = "My LinkedIn"
@@ -56,7 +51,7 @@ theme = "casper"
   # Social icons
   githubName = "boshdesigns"
   twitterName = "shinyash"
-  instagramName = "iamashholley"
+  #instagramName = "iamashholley"
   linkedinName = "ash-holley-03755851"
 
   # footer
