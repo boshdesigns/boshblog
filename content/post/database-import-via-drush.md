@@ -17,7 +17,7 @@ image = ""
 
 +++
 
-A small command but this has come into it's own quite recently for me. Saves time have to import databases via MySQL each time.
+A small command but this has come into it's own quite recently for me. Saves time having to import databases via MySQL each time.
 
 
 ```
