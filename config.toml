@@ -18,21 +18,25 @@ theme = "casper"
   url = "/"
   weight = 100
   [[menu.main]]
+  name = "Portfolio"
+  url = "http://www.bishbashboshdesigns.co.uk"
+  weight = 101
+  [[menu.main]]
   name = "Github"
   url = "https://github.com/boshdesigns"
-  weight = 101
+  weight = 102
   [[menu.main]]
   name = "My Twitter"
   url = "https://twitter.com/shinyash"
-  weight = 102
+  weight = 103
   [[menu.main]]
   name = "My LinkedIn"
   url = "https://uk.linkedin.com/in/ash-holley-03755851"
-  weight = 103
+  weight = 104
   [[menu.main]]
   name = "JSFiddle"
   url = "https://jsfiddle.net/user/shinyash/"
-  weight = 104
+  weight = 105
 
 
   [params]
