@@ -48,7 +48,7 @@ theme = "casper"
 
   # homepage
   cover = "images/cover_polenord.jpg"
-  description = "I work with Drupal by day, and tickle everythng else by night"
+  description = ""
 
   logo = "images/logo.png"
 
