@@ -12,7 +12,7 @@ draft = false
 title = "JQuery Match Height For Elements"
 share = true
 date = "2017-06-01T14:52:41+01:00"
-image = ""
+image = "images/js-bg.jpg"
 
 +++
 

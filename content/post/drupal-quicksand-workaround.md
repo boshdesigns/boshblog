@@ -8,7 +8,7 @@ tags = [
   "Better Exposed Filters",
 ]
 share = true
-image = ""
+image = "images/drupal-bg.jpg"
 comments = true
 menu = ""
 title = "Drupal 7 Views Quicksand Workaround"

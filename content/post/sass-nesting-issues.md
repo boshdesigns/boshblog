@@ -10,7 +10,7 @@ menu = ""
 author = ""
 draft = false
 slug = "sass-nesting-issues"
-image = ""
+image = "images/sass-bg.jpg"
 title = "Sass Nesting Issues"
 share = true
 

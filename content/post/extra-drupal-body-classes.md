@@ -10,7 +10,7 @@ tags = [
   "CSS"
 ]
 share = true
-image = "images/html-bg.jpg"
+image = "images/drupal-bg.jpg"
 menu = ""
 slug = "extra-drupal-body-classes"
 draft = false

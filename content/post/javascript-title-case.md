@@ -1,7 +1,7 @@
 +++
 draft = false
 slug = "javascript-title-case-function"
-image = ""
+image = "images/js-bg.jpg"
 comments = true
 share = true
 menu = ""

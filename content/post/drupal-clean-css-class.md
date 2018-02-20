@@ -4,7 +4,7 @@ tags = [
   "Drupal",
   "PHP",
 ]
-image = ""
+image = "images/drupal-bg.jpg"
 date = "2017-03-08T14:37:27+01:00"
 menu = ""
 comments = true

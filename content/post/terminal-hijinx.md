@@ -1,5 +1,5 @@
 +++
-image = ""
+image = "images/html-bg.jpg"
 author = ""
 title = "Terminal Hijinx"
 slug = "terminal-hijinx"

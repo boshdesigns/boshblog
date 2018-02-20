@@ -13,7 +13,7 @@ tags = [
   "Database",
   "SQL"
 ]
-image = ""
+image = "images/drupal-bg.jpg"
 
 +++
 

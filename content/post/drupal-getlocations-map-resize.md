@@ -1,7 +1,7 @@
 +++
 slug = "drupal-getlocations-map-resize"
 menu = ""
-image = ""
+image = "images/drupal-bg.jpg"
 share = true
 author = ""
 comments = true

@@ -1,6 +1,6 @@
 +++
 share = true
-image = ""
+image = "images/drupal-bg.jpg"
 title = "Drupal Getlocation Multiple Marker Select List Workaround"
 date = "2017-12-07T11:23:58Z"
 menu = ""

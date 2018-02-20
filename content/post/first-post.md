@@ -12,7 +12,7 @@ date = "2017-02-10T20:22:51Z"
 title = "First Post"
 menu = ""
 slug = "first-post"
-image = ""
+image = "images/html-bg.jpg"
 comments = true
 
 +++

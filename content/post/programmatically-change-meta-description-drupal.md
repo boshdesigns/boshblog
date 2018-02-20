@@ -1,6 +1,6 @@
 +++
 draft = false
-image = ""
+image = "images/drupal-bg.jpg"
 share = true
 author = ""
 date = "2017-05-01T15:36:17+01:00"

@@ -11,7 +11,7 @@ share = true
 menu = ""
 author = ""
 date = "2017-04-10T15:27:12+01:00"
-image = ""
+image = "images/drupal-bg.jpg"
 slug = "add-conditional-stylesheets-drupal"
 
 +++

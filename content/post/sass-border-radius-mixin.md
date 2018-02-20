@@ -6,7 +6,7 @@ tags = [
 ]
 slug = "sass-border-radius-mixin"
 draft = false
-image = ""
+image = "images/sass-bg.jpg"
 date = "2017-03-19T09:19:51+01:00"
 title = "Sass Border Radius Mixin"
 menu = ""
